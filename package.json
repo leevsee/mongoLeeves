@@ -1,0 +1,18 @@
+{
+  "name": "leeves",
+  "version": "1.0.0",
+  "description": "monitor get data",
+  "main": "\\",
+  "scripts": {
+    "test": "leeves test"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "leeves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "multer": "^1.3.0"
+  }
+}
